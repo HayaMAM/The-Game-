@@ -8,8 +8,7 @@
 
 The logic behind the game is simple and clear. I created a variable and if statement to switch between the players. I also created if statements for the winning possibilities of the game. Finally I created a function to alert the players of the winner of the game.  
 
-## GitHub Page
-
+## [GitHub Page](https://hayamam.github.io/Tic-Tac-Toe-/game.html)
 
 ## What’s Next
 1.  an alert of tie between the players.

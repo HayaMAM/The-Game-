@@ -2,7 +2,7 @@
 
 ## Used Technologies
 
- I used JavaScript, HTML and CSS to complete this game. 
+ I used JavaScript, JQuery, HTML and CSS to complete this game. 
 
 ## The Approach
 

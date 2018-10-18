@@ -1,6 +1,6 @@
 # Tic Tac Toe 
 
-##Used Technologies
+## Used Technologies
 
  I used JavaScript, HTML and CSS to complete this game. 
 

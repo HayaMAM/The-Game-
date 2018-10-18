@@ -17,6 +17,6 @@ The logic behind the game is simple and clear. I created a variable and if state
 
 ## Credits
 I could not create this game without the guidance and assistance of my instructors and colleagues and I’m so grateful for them.  I also used some resources online in order to create this game: 
-1. [Spark](https://spark.adobe.com/sp)
-2. [Stack Overflow](https://stackoverflow.com/questions/10761467/setting-an-image-as-a-footer-background-in-css)
-3. [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq)
+* [Spark](https://spark.adobe.com/sp)
+* [Stack Overflow](https://stackoverflow.com/questions/10761467/setting-an-image-as-a-footer-background-in-css)
+* [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq)

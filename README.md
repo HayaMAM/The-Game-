@@ -20,3 +20,4 @@ I could not create this game without the guidance and assistance of my instructo
 * [Spark](https://spark.adobe.com/sp)
 * [Stack Overflow](https://stackoverflow.com/questions/10761467/setting-an-image-as-a-footer-background-in-css)
 * [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq)
+* [SweetAlert](https://sweetalert.js.org/guides/)

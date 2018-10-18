@@ -11,9 +11,9 @@ The logic behind the game is simple and clear. I created a variable and if state
 ## [GitHub Page](https://hayamam.github.io/Tic-Tac-Toe-/game.html)
 
 ## What’s Next
-1.  an alert of tie between the players.
-2.  an AI opponent. 
-3. more interactive page. 
+*  an alert of tie between the players.
+*  an AI opponent. 
+*  more interactive page. 
 
 ## Credits
 I could not create this game without the guidance and assistance of my instructors and colleagues and I’m so grateful for them.  I also used some resources online in order to create this game: 
